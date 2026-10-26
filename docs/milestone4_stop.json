@@ -1,0 +1,7 @@
+{
+  "controller_stop_after_node_kill_s": 0.6554069200001322,
+  "heartbeat_state_timeout_s": 0.6158615340000324,
+  "stop_state_latency_s": 0.05250304699984554,
+  "final_speed": -2.2088455559402414e-16,
+  "final_angular_speed": 4.7375445562059435e-15
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "action": "greet",
+    "elapsed_real_s": 12.466968441000063,
+    "path_m": 1.8117952901186916e-11,
+    "net_rotation_rad": -0.022587197144793042,
+    "endpoint_error_m": 6.203726234721317e-13,
+    "heading_error_rad": 0.022587197144793514,
+    "segments_seen": [
+      0,
+      1,
+      2
+    ],
+    "final_linear_mps": -1.463456011946721e-16,
+    "final_angular_rps": 4.079134178882387e-15,
+    "max_command_linear": 0.0,
+    "max_command_angular": 0.35
+  },
+  {
+    "action": "back_and_forth",
+    "elapsed_real_s": 32.986532526999326,
+    "path_m": 1.5479627870765187,
+    "net_rotation_rad": -2.3803181647963356e-13,
+    "endpoint_error_m": 0.0008308876317948174,
+    "heading_error_rad": 2.3803181647963356e-13,
+    "segments_seen": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "final_linear_mps": 1.6230546230331696e-17,
+    "final_angular_rps": 4.079134178721026e-15,
+    "max_command_linear": 0.08,
+    "max_command_angular": 2.4283242083811274e-11
+  },
+  {
+    "action": "circle",
+    "elapsed_real_s": 35.641934713999945,
+    "path_m": 2.5023840685241083,
+    "net_rotation_rad": 6.261135999470667,
+    "endpoint_error_m": 0.010889047326769255,
+    "heading_error_rad": 0.022049307708917446,
+    "segments_seen": [
+      0
+    ],
+    "final_linear_mps": -2.477834705332505e-16,
+    "final_angular_rps": 4.22473739435658e-15,
+    "max_command_linear": 0.08,
+    "max_command_angular": 0.19999999999999998
+  }
+]

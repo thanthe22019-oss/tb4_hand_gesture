@@ -1,0 +1,12 @@
+{
+  "messages": 234,
+  "labels": {
+    "UNKNOWN": 1,
+    "NO_HAND": 233
+  },
+  "gesture_publishers": [
+    "gesture_recognition_node"
+  ],
+  "recognition_publishes_cmd_vel": false,
+  "maximum_received_gap_seconds": 0.08179190200007724
+}

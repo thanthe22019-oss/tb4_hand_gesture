@@ -1,0 +1,11 @@
+{
+  "ros_domain_id": "173",
+  "statuses_received": 122,
+  "zero_velocity_messages": 122,
+  "open_palm_state_latency_s": 0.02943292300005851,
+  "heartbeat_timeout_config_s": 0.6,
+  "observed_watchdog_state_latency_s": 0.6293385740000303,
+  "selection_confirmation_cancel_no_hand_unknown_pass": true,
+  "held_thumb_execution_id_stable": true,
+  "physical_motion_tested": false
+}

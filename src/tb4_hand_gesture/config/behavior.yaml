@@ -1,0 +1,18 @@
+robot_behavior_node:
+  ros__parameters:
+    heartbeat_timeout: 0.6
+    selection_timeout: 5.0
+    rate_hz: 20.0
+    # Preview by default; enable physical simulation with preview_only:=false.
+    preview_only: true
+    use_sim_time: false
+    odom_timeout: 0.5
+    linear_speed: 0.12
+    angular_speed: 0.45
+    travel_distance: 0.2
+    circle_radius: 0.4
+    greet_angle: 0.5235987755982988
+    distance_tolerance: 0.008
+    angle_tolerance: 0.025
+    settle_seconds: 0.4
+    segment_timeout: 60.0

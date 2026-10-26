@@ -1,0 +1,4 @@
+# NumPy 1.x for ROS Humble binary compatibility.
+mediapipe==0.10.32
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86

@@ -1,0 +1,17 @@
+{
+  "messages": 245,
+  "labels": {
+    "UNKNOWN": 61,
+    "NO_HAND": 27,
+    "OPEN_PALM": 47,
+    "WAVE": 110
+  },
+  "gesture_publishers": [
+    "gesture_recognition_node"
+  ],
+  "recognition_publishes_cmd_vel": false,
+  "maximum_received_gap_seconds": 0.08208984400062036,
+  "behavior_status_publishers": [
+    "robot_behavior_node"
+  ]
+}

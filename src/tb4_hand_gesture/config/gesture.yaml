@@ -1,0 +1,21 @@
+gesture_recognition_node:
+  ros__parameters:
+    camera_index: 0
+    width: 640
+    height: 480
+    rate_hz: 20.0
+    show_window: true
+    mirror: true
+    hold_seconds: 0.3
+    confidence_threshold: 0.75
+    # Thumb confirmation still requires hold_seconds of continuous recognition.
+    thumb_confidence: 0.55
+    stop_confidence: 0.6
+    wave_window: 1.2
+    wave_amplitude: 0.5
+    wave_idle_seconds: 0.2
+    max_frame_gap: 0.25
+    # Bridge brief classification loss only while one open hand remains tracked.
+    wave_label_grace: 0.25
+    # Direction-change amplitude for in-plane wrist waving, radians (~20 deg).
+    wave_angle_amplitude: 0.35

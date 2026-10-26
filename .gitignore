@@ -1,0 +1,11 @@
+build/
+install/
+log/
+.venv-gesture/
+__pycache__/
+*.pyc
+models/*.task
+
+# Generated submission and local reports
+report/
+*.part
